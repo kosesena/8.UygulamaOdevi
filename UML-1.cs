@@ -1,3 +1,5 @@
+// UML diagram for the class structure can be found at UML-1.jpg
+
 // Base class: Person - Person sınıfı,temel bir sınıftır(base class) ve Student ile Proffessor sınıfları bu sınıfı miras alır.Kişilerin adı,telefon numarası ve e-posta adresi gibi ortak özelliklerini içerir.
 public class Person
 {
