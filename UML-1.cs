@@ -6,7 +6,7 @@ public class Person
     public string EmailAddress { get; set; } // Kişinin e-posta adresini saklar.
 
     public void PurchaseParkingPass() // Person sınıfına ait bir metottur.Bu metod,park yeri satın alma işleminin simüle eder.Şu anda sadece bir mesaj yazdırıyor.
-    {r.
+    {
         // Implementation for purchasing a parking pass
         Console.WriteLine("Parking pass purchased.");
     }
